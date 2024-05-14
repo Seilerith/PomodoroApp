@@ -327,4 +327,4 @@ class PomodoroApp(MDApp):
 
 if __name__ == '__main__':
     PomodoroApp().run()
-#By ABDULAZİZ HOCAOĞLU
+#By ABDULAZİZ_HOCAOĞLU
