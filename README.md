@@ -25,11 +25,9 @@ Run the application:
 python main.py
 
 Use the bottom navigation bar to switch between different screens:
-
 Pomodoro: Set and manage your Pomodoro timer.
 To Do: Add, delete, and manage your to-do list items.
 Note: Take and view notes within the app.
-
 Customize your Pomodoro sessions and break intervals according to your preference.
 
 -Contributing-
@@ -44,7 +42,9 @@ Push to the branch (git push origin feature/improvement)
 Create a new Pull Request.
 
 -Credits-
+
 This app was developed by Abdulaziz Hocaoğlu.
 
 -License-
+
 This project is licensed under the MIT License.
