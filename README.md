@@ -11,7 +11,7 @@ Note Taking: Quickly jot down notes or ideas within the app.
 -Installation-
 
 Clone the repository:
-git clone https://github.com/your_username/pomodoro-app.git
+git clone https://github.com/Seilerith/PomodoroApp.git
 
 Navigate to the project directory:
 cd pomodoro-app
